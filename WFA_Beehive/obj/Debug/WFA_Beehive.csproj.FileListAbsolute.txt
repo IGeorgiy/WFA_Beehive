@@ -1,0 +1,9 @@
+C:\Users\S14M05\source\repos\WFA_Beehive\WFA_Beehive\bin\Debug\WFA_Beehive.exe.config
+C:\Users\S14M05\source\repos\WFA_Beehive\WFA_Beehive\bin\Debug\WFA_Beehive.exe
+C:\Users\S14M05\source\repos\WFA_Beehive\WFA_Beehive\bin\Debug\WFA_Beehive.pdb
+C:\Users\S14M05\source\repos\WFA_Beehive\WFA_Beehive\obj\Debug\WFA_Beehive.csprojAssemblyReference.cache
+C:\Users\S14M05\source\repos\WFA_Beehive\WFA_Beehive\obj\Debug\WFA_Beehive.FormBeehiveManagmentSystem.resources
+C:\Users\S14M05\source\repos\WFA_Beehive\WFA_Beehive\obj\Debug\WFA_Beehive.Properties.Resources.resources
+C:\Users\S14M05\source\repos\WFA_Beehive\WFA_Beehive\obj\Debug\WFA_Beehive.csproj.GenerateResource.cache
+C:\Users\S14M05\source\repos\WFA_Beehive\WFA_Beehive\obj\Debug\WFA_Beehive.exe
+C:\Users\S14M05\source\repos\WFA_Beehive\WFA_Beehive\obj\Debug\WFA_Beehive.pdb
